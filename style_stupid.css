@@ -1,0 +1,8 @@
+body {
+    margin: 0px
+}
+
+.mascot_image {
+    background-image: url(colby.png);
+    background-size: 50px 50px;
+}
